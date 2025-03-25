@@ -1,1 +1,0 @@
-# Secure-Image-Web-App
